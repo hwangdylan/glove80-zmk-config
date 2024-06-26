@@ -145,7 +145,7 @@
 
         custom {
             bindings = <
-            &trans  &trans                   &trans                    &trans  &trans                                                                             &trans    &trans        &trans        &trans    &trans        &trans
+            &trans  &trans                   &trans                    &trans  &trans                                                                                       &trans        &trans        &trans    &trans        &trans
             &trans  &trans                   &trans                    &trans  &kp LS(LG(LC(N4)))    &kp LS(LG(N4))                                               &trans    &trans        &trans        &trans    &trans        &trans
             &kp TAB &kp TAB                  &kp LG(W)                 &trans  &trans                &kp LG(T)                                                    &trans    &kp LA(LEFT)  &kp LA(RIGHT) &kp BSPC  &kp LA(BSPC)  &kp LG(BSPC)
             &mo 1   &kp LG(LS(LEFT_BRACKET)) &kp LG(LS(RIGHT_BRACKET)) &trans  &kp ENTER             &trans                                                       &kp LEFT  &kp DOWN      &kp UP        &kp RIGHT &kp LG(RIGHT) &trans
