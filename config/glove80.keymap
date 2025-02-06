@@ -106,7 +106,7 @@
             &kp GRAVE          &kp Q     &kp W        &kp E       &kp R       &kp T                                                                                              &kp Y   &kp U   &kp I       &kp O       &kp P       &kp BSLH
             &lt MY_LAYER ESC   &kp A     &kp S        &kp D       &kp F       &kp G                                                                                              &kp H   &kp J   &kp K       &kp L       &kp SEMI    &kp SQT
             &kp LSHIFT         &kp Z     &kp X        &kp C       &kp V       &kp B   &kp LCTRL            &kp LALT     &kp BSPC         &magic MAGIC 0  &kp RCTRL &kp RSHFT     &kp N   &kp M   &kp COMMA   &kp DOT     &kp FSLH    &kp RSHFT
-            &layer_td          &kp LCTRL &kp TAB      &kp LEFT    &kp RIGHT           &lt MY_LAYER ESC     &kp LCMD     &kp CAPS         &kp RALT        &kp ENTER &kp SPACE             &kp UP  &kp DOWN    &kp LBKT    &kp RBKT    &kp RALT
+            &layer_td          &kp LCTRL &kp TAB      &kp LEFT    &kp RIGHT           &lt MY_LAYER ESC     &kp LCMD     &kp CAPS         &kp RALT        &kp ENTER &kp SPACE             &kp SPACE  &kp DOWN    &kp LBKT    &kp RBKT    &kp RALT
             >;
         };
 
